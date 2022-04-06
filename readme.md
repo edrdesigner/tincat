@@ -1,7 +1,10 @@
 
 # Project Overview
 
-Inprired on tinder this is tincat, A simple clone app made with React Native expo.
+
+Inspired by tinder this is tincat. A simple app made with React Native, React Native Navigation and some Expo features.
+
+![](https://i.imgur.com/9IEfamR.gif)
 
 ## Document for the cats API
 
