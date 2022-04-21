@@ -4,8 +4,6 @@
 
 Inspired by tinder this is tincat. A simple app made with React Native, React Native Navigation and some Expo features.
 
-![](https://i.imgur.com/9IEfamR.gif)
-
 ## Document for the cats API
 
 [Api documentation](https://documenter.getpostman.com/view/5578104/RWgqUxxh#19c0515e-27da-415a-b844-bc7fe37d038c)
